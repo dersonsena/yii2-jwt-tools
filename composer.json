@@ -1,0 +1,15 @@
+{
+    "name": "dersonsena/yii2-jwt-tools",
+    "description": "Virtual package for astrotechlabs/yii2-jwt-tools",
+    "type": "metapackage",
+    "require": {
+        "astrotechlabs/yii2-jwt-tools": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Astrotech Team",
+            "email": "devs@astrotech.solutions"
+        }
+    ]
+}
